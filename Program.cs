@@ -2,6 +2,7 @@
 {
     internal class Program
     {
+        //To whoever has to correct this code,May God aid your wretched soul
         static int[] Same_letter(string[,] matrix, int row)
         {
             string searched_letter = "";
